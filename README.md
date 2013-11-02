@@ -1,4 +1,4 @@
-RuLytics - analytic tools for NetLytics
+RuLytic - analytic tools for NetLytic
 ============================
 AngularJS application
 -------------
