@@ -1,0 +1,15 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Ignore temp files
+*~
+
+# Ignore log files
+*.log
+
+# Ignore target dir
+target/
